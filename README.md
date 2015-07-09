@@ -1,4 +1,4 @@
 vaadin-widgetset-web
 ====================
 
-Autocompiled vaadin vwdgetset for Liferay
+Autocompiled vaadin widgetset for Liferay
